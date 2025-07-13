@@ -10,7 +10,7 @@ class MainApp extends StatefulWidget {
 }
 
 class _MainAppState extends State<MainApp> {
-  String displayText = "No Text";
+  String displayText = "No Text data";
 
   List<String> taskList = [];
 
